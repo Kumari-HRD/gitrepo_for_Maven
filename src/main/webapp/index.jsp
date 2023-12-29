@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World Hello Devops 12345 Check now Project5 changes Finally Project5555!</h2>
+<h2>Hello World Hello Devops changes Finally Project5555!</h2>
 </body>
 </html>
